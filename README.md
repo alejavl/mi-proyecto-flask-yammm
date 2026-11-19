@@ -49,7 +49,7 @@ http://127.0.0.1:5000/
 - `.gitignore`: archivos excluidos de Git.
 
 ## Autor
-Flores Gutierrez Christopher.
+Sanchez Gonzales Yamileth.
 
 ## Módulo
 M2S1 - Frameworks
